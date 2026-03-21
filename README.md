@@ -73,7 +73,11 @@ void loop() {
   // Your app logic...
 }
 
-![photo_2026-03-21_08-39-22 (7)](https://github.com/user-attachments/assets/1f139b10-bea5-4821-b94d-baa632918625)
-![photo_2026-03-21_08-39-22 (3)](https://github.com/user-attachments/assets/9652f2e3-2fba-43bd-bba6-fc0718347ee6)
+```
+
+## 📸 Pics
+![photo_2026-03-21_08-39-22 (3)](https://github.com/user-attachments/assets/6218a308-1f74-4336-8aaf-ba16909cd32e)
+![photo_2026-03-21_08-39-22 (4)](https://github.com/user-attachments/assets/a2f0d088-df9f-4543-9273-be08f88be0dc)
+
 
 
