@@ -4,7 +4,7 @@
 
 [![Platform](https://img.shields.io/badge/Platform-ESP32-orange.svg)](https://www.espressif.com/en/products/socs/esp32)
 [![License](https://img.shields.io/badge/License-Educational-blue.svg)](#-license--support)
-[![Store](https://img.shields.io/badge/Tindie-Store-green.svg)](https://www.tindie.com)
+[![Store](https://img.shields.io/badge/Tindie-Store-green.svg)](https://www.tindie.com/stores/gero87/)
 
 ---
 
